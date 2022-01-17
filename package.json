@@ -1,0 +1,23 @@
+{
+  "name": "alexgrozav",
+  "version": "0.0.0",
+  "description": "Hey! I'm Alex Grozav, a Front-end development enthusiast who loves coding, designing, writing, drawing, and painting. I'm the mind behind inkline and other cool projects. My friends say I'm awesome.",
+  "bugs": "https://github.com/alexgrozav/alexgrozav",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexgrozav/alexgrozav"
+  },
+  "funding": "https://github.com/sponsors/alexgrozav",
+  "license": "MIT",
+  "author": "alexgrozav <alex@grozav.com>",
+  "main": "index.js",
+  "bin": {
+    "alexgrozav": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.2.1"
+  }
+}
